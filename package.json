@@ -1,0 +1,29 @@
+{
+  "name": "myresume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gilru/resume.git"
+  },
+  "author": "gilbert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gilru/resume/issues"
+  },
+  "homepage": "https://github.com/Gilru/resume#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "engines": {
+    "node": "v6.2.2"
+  }
+}
