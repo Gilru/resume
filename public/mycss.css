@@ -1,0 +1,36 @@
+.col-center {
+    margin:0 auto;
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+hr {
+    border: 2px solid #34495e
+
+}
+body {
+    background-color: #ecf0f1;
+}
+h1,h2,p,li,ul{
+    color: #34495e;
+}
+.mid-bold {
+    font-weight: 200;
+}
+@media print {
+    body {
+        background-color: #fff;
+    }
+    hr {
+        border: 2px solid #000
+
+    }
+    h1,h2,p,li,ul{
+        color: #000;
+    }
+    #printResume {
+        display: none;
+    }
+}
